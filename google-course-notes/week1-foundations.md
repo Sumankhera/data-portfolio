@@ -17,3 +17,10 @@
 - Tools in the ecosystem include databases (SQL), spreadsheets, BI tools, and programming languages like R or Python.
 - The **life cycle of data** moves through: **Capture → Storage → Processing → Analysis → Communication → Archive**
 - A healthy data ecosystem ensures **data accuracy, accessibility, security, and usefulness** across the organization.
+
+### 📊 Quiz Learnings – Week 1
+
+- Data is only meaningful when it is organized, processed, and analyzed.
+- Structured data is organized into rows and columns (e.g., spreadsheets).
+- Data analysts help businesses make data-driven decisions.
+- The data life cycle supports the decision-making process from start to finish.
